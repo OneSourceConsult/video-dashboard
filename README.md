@@ -115,7 +115,7 @@ Open issues and PRs for bugs, improvements, and new features. Follow the ESLint 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the included LICENSE file for the full details.
+This project is licensed under the Apache License, Version 2.0 (the "License"). See the included LICENSE file for the full details.
 
 ## Contact / References
 
