@@ -11,7 +11,7 @@ export default defineConfig({
     port: 4000,
     https: {
       key: fs.readFileSync("./certs/tls.key"),
-      cert: fs.readFileSync("./certs/tls.crt"),
+      cert: fs.readFileSync("./certs/tls.pem"),
     },
   },
   resolve: {

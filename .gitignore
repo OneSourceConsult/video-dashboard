@@ -26,3 +26,7 @@ pnpm-debug.log*
 # Other files
 package-lock.json
 .editorconfig
+
+# Certificates
+certs/*
+docker-compose.yml
